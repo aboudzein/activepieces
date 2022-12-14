@@ -21,6 +21,5 @@ module.exports = {
 		sourceType: 'module',
 	},
 	ignorePatterns: ['dist'],
-	rules: {
-	},
+	rules: {},
 };

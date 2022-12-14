@@ -5,4 +5,5 @@ export enum InputUiType {
 	NUMBER = 'NUMBER',
 	CHECKBOX = 'CHECKBOX',
 	JSON = 'JSON',
+	ARRAY = 'ARRAY',
 }
